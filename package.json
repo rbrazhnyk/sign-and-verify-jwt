@@ -1,0 +1,14 @@
+{
+  "name": "jwt-sign-and-verify",
+  "version": "0.1.0",
+  "description": "Sign JWT with private key & verify with public key",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Roman Brazhnyk",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "8.5.1"
+  }
+}
